@@ -1,0 +1,7 @@
+print("============================")
+print("=====WELCOME TO WORD REPEATER SERVICE=====")
+print("=====MADE BY @CodingWithUday =====")
+print("============================")
+wrd = input("Enter Your Word To Be Repeated: ")
+a = int(input("How Many Times You Want To Repeat The Word: "))
+print(wrd * a)
